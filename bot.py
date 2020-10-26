@@ -3,9 +3,11 @@ import tweepy
 import time
 import random
 import sys
+
 #En mi caso tengo que importar los modulos de esta manera.
 sys.path.insert(0, "/Users/Andres/Google Drive/Cursos de Programacion/Python/bot_twitter/credenciales.py")
 sys.path.insert(0, "/Users/Andres/Google Drive/Cursos de Programacion/Python/bot_twitter/listado.py")
+
 from credenciales import *
 from listado import *
 
